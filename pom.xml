@@ -22,13 +22,13 @@
         <Vaadin-Addon>${project.artifactId}-${project.version}.jar</Vaadin-Addon>
     </properties>
     <scm>
-        <url>https://github.com/wbadam/SearchBox</url>
-        <connection>scm:git:git://github.com/wbadam/SearchBox.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com:/wbadam.SearchBox.git</developerConnection>
+        <url>https://github.com/kironapublic/SearchBox</url>
+        <connection>scm:git:git://github.com/kironapublic/SearchBox.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com:/kironapublic.SearchBox.git</developerConnection>
     </scm>
     <issueManagement>
         <system>GitHub</system>
-        <url>https://github.com/wbadam/SearchBox/issues</url>
+        <url>https://github.com/kironapublic/SearchBox/issues</url>
     </issueManagement>
     <licenses>
         <license>
