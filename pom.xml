@@ -4,7 +4,7 @@
     <name>searchbox</name>
     <groupId>org.vaadin.addons</groupId>
     <artifactId>searchbox</artifactId>
-    <version>0.1-SNAPSHOT</version>
+    <version>0.1-kirona</version>
     <packaging>bundle</packaging>
     <organization>
         <name>Vaadin Community</name>
